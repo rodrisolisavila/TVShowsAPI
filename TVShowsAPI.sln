@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVShowsAPI", "TVShowsAPI.csproj", "{CE544CD5-F663-4998-905E-DD2E5E0304DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE544CD5-F663-4998-905E-DD2E5E0304DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE544CD5-F663-4998-905E-DD2E5E0304DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE544CD5-F663-4998-905E-DD2E5E0304DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE544CD5-F663-4998-905E-DD2E5E0304DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {037B66F1-4464-4A14-ADED-F663E8C072D8}
+	EndGlobalSection
+EndGlobal
